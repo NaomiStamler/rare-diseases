@@ -10,6 +10,9 @@ theme:
     - search.suggest
     - content.code.copy
 
+extra_css:
+- stylesheets/extra.css
+
 # This makes sure search engines don't index the site
 extra:
   generator: false
