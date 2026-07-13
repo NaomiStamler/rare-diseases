@@ -1,7 +1,7 @@
 
 # **ACTL6B-Related Syndrome**
 
-### **Disease Overview** 
+### Disease Overview
 
 ACTL6B-related syndrome—also known as developmental and epileptic encephalopathy-76 or intellectual developmental disorder with severe speech and ambulation defects (IDDSSAD)—is a genetic condition caused by variants in the ACTL6B gene. This gene produces a protein essential for the transport of cellular components and for regulating gene expression by turning DNA off. The syndrome occurs when genetic changes prevent this gene from functioning correctly, affecting brain development and activity.
 
