@@ -23,8 +23,10 @@ While the long-term progression is still being studied, research indicates that 
 ## Therapeutic Landscape
 There are currently no medicines specifically designed to treat ACTL6B-related syndrome3. Management is supportive and focuses on addressing individual symptoms through.
 
-# Research
+## Research
+
 ---
 
 ## Bibliography
+
 Note: None of the sources used in this profile are over 3 years old; the primary medical guide and research data were updated or published between 2024 and 202515,16.
