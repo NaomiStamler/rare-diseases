@@ -1,0 +1,118 @@
+/* --------------------------------------------------
+   COLORS
+-------------------------------------------------- */
+
+:root {
+  --dark-blue: #1A237E;
+  --light-blue: #64B5F6;
+  --pink: #E91E63;
+  --soft-gray: #F5F5F5;
+  --charcoal: #212121;
+}
+
+/* --------------------------------------------------
+   GLOBAL TYPOGRAPHY
+-------------------------------------------------- */
+
+body {
+  font-family: "Poppins", sans-serif;
+  color: var(--charcoal);
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  font-weight: 600;
+  color: var(--dark-blue);
+}
+
+/* Links */
+a {
+  color: var(--light-blue);
+}
+a:hover {
+  color: var(--pink);
+}
+
+/* --------------------------------------------------
+   HEADER (Gradient)
+-------------------------------------------------- */
+
+.md-header {
+  background: linear-gradient(90deg, var(--dark-blue), var(--light-blue));
+}
+
+/* --------------------------------------------------
+   BRAND DOT (Pink Circle Accent)
+-------------------------------------------------- */
+
+.brand-dot {
+  width: 14px;
+  height: 14px;
+  background: var(--pink);
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 8px;
+}
+
+/* --------------------------------------------------
+   INFO CARDS (Used on homepage + disease pages)
+-------------------------------------------------- */
+
+.info-card {
+  background: var(--soft-gray);
+  border-radius: 16px;
+  padding: 24px;
+  margin: 20px 0;
+  border-left: 6px solid var(--light-blue);
+}
+
+/* --------------------------------------------------
+   VERTICAL ACCENT BAR (Left-side marker)
+-------------------------------------------------- */
+
+.vertical-bar {
+  width: 5px;
+  background: var(--dark-blue);
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+/* --------------------------------------------------
+   SECTION DIVIDERS
+-------------------------------------------------- */
+
+.section-divider {
+  height: 2px;
+  background: var(--light-blue);
+  margin: 30px 0;
+}
+
+/* --------------------------------------------------
+   HOMEPAGE HERO TITLE
+-------------------------------------------------- */
+
+.hero-title {
+  font-size: 2.4rem;
+  font-weight: 700;
+  color: white;
+  text-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+/* --------------------------------------------------
+   RARE DISEASE PAGE TITLE
+-------------------------------------------------- */
+
+.disease-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--dark-blue);
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.disease-title .brand-dot {
+  margin-right: 12px;
+}
