@@ -1,8 +1,8 @@
-# **Surfactant Protein B (SP-B) Deficiency Disease Profile**
+# **Surfactant Protein B (SP-B) Deficiency**
 
 ### Disease Overview
 
-Surfactant protein B (SP-B) deficiency is a rare inherited disorder that causes interstitial lung disease. It is characterized by the body's inability to produce functional surfactant—a mixture of fats and proteins that reduces surface tension in the lungs to prevent alveolar collapse during exhalation. The condition is caused by variants in the SFTPB gene and is inherited in an autosomal recessive pattern, meaning an affected child must inherit a disease-causing gene variant from each parent. Synonyms for the condition include SP-B deficiency, pulmonary surfactant metabolism dysfunction-1 (SMDP1), and congenital pulmonary alveolar proteinosis 1.
+Surfactant protein B (SP-B) deficiency is a rare inherited disorder that causes interstitial lung disease. It is characterized by the body's inability to produce functional surfactant—a mixture of fats and proteins that reduces surface tension in the lungs to prevent alveolar collapse during exhalation. The condition is caused by variants in the SFTPB gene and is inherited in an autosomal recessive pattern, meaning an affected child must inherit a disease-causing gene variant from each parent. Synonyms for the condition include SP-B deficiency, pulmonary surfactant metabolism dysfunction-1 (SMDP1), and congenital pulmonary alveolar proteinosis.
 
 ### Epidemiology/Prevalence
 
