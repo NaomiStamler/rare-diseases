@@ -10,11 +10,6 @@ theme:
     - search.suggest
     - content.code.copy
 
-nav:
-  - Home: index.md
-  - Diseases:
-      - Example Disease: diseases/example-disease.md
-
 # This makes sure search engines don't index the site
 extra:
   generator: false
