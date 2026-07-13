@@ -1,6 +1,6 @@
-# Disease Research Notebook
+# Fundación Columbus Rare Diseases
 
-Welcome. This site consolidates disease research sources in one place.
+Welcome! This site consolidates disease research sources in one place.
 
 Use the navigation menu (or the search bar above) to browse by disease.
 
