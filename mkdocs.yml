@@ -11,7 +11,12 @@ theme:
     - content.code.copy
 
 extra_css:
-- stylesheets/extra.css
+  - stylesheets/extra.css
+
+extra:
+  font:
+    text: Poppins
+    code: Fira Code
 
 # This makes sure search engines don't index the site
 extra:
